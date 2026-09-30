@@ -80,6 +80,12 @@ Here, `{intro}` is usually the same data-schema and task context used by a gener
 
 CogAlpha and these prompt templates are intended for academic research. They do not provide financial advice. Users are responsible for sourcing data, validating generated factors, and assessing risk in their own context.
 
+## License
+
+The prompt templates in this repository are released under the MIT License.
+Paper figures, paper metadata, and citation information are included for documentation purposes.
+See [LICENSE](LICENSE) for details.
+
 ## Citation
 
 If you find this repository useful, please consider citing our paper:
