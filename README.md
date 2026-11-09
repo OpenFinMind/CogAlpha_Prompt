@@ -82,9 +82,14 @@ CogAlpha and these prompt templates are intended for academic research. They do 
 
 ## License
 
-The prompt templates in this repository are released under the MIT License.
-Paper figures, paper metadata, and citation information are included for documentation purposes.
-See [LICENSE](LICENSE) for details.
+Copyright 2026 Fengyuan Liu.
+
+The prompt templates and accompanying documentation in this repository are
+licensed under the Apache License, Version 2.0. See [LICENSE](LICENSE) and
+[NOTICE](NOTICE) for details.
+
+Paper figures are excluded from this license grant and remain subject to the
+rights and applicable licenses of their respective copyright holders.
 
 ## Citation
 
